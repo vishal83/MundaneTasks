@@ -2,7 +2,7 @@
 
 A bunch of scripts to do mundane but essential tasks
 
-1. [Adding watermark text to multiple PDF files] (#adding-watermark-text-to-multiple-pdf-files)
+1. [Adding watermark text to multiple PDF files](#adding-watermark-text-to-multiple-pdf-files)
 
 ## Details
 
